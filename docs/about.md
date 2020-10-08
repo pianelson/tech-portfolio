@@ -19,8 +19,7 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
-
+Research Assistant at Socio-Technical Interaction Research Lab in Orlando, Florida
 ## Recognition
 
 - 2020 Awesome Woman in Technology Award
