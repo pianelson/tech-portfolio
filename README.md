@@ -147,13 +147,13 @@ home page.
 1. Check out the `socialMedia` section. This section controls the social media icons and links at the bottom of your portfolio!
    ```js
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/',
-        twitter: 'https://twitter.com/',
-        github: 'https://github.com/',
+        linkedin: 'https://www.linkedin.com/in/pianelson',
+        twitter: 'https://twitter.com/PiaNelson7',
+        github: 'https://github.com/pianelson',
         //facebook: 'https://www.facebook.com/',
         //instagram: 'https://www.instagram.com/',
         //youtube: 'https://www.youtube.com/',
-        //twitch: 'https://www.twitch.tv/'
+        twitch: 'https://www.twitch.tv/pialauryn'
     },
    ```
    ![docs/assets](assets/socialmedia.png)

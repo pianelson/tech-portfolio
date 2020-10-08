@@ -31,7 +31,7 @@ class Footer extends React.Component {
             })
           }
         </section>
-        <section className="copyright">{this.props.config.copyright} {this.props.config.title}. Created with Docusaurus.</section>
+        <section className="copyright">{this.props.config.copyright} {this.props.config.title}. </section>
       </footer>
     );
   }
