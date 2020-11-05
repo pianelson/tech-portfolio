@@ -16,7 +16,7 @@ const siteConfig = {
     tagline: 'Continuously improving, continuously improving.',
     profilePhoto: 'img/profile.png',
     url: 'https://pianelson.github.io', // Your website URL
-    baseUrl: '/tech-portfolio/', // Base URL for your project */
+    baseUrl: '/tech-portfolio/resume', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
