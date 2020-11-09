@@ -21,3 +21,12 @@ Our initial idea was filtering through twitter to find derogatory words and sugg
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcnubbLRDPUGmc9NQmUS1TX%2FTechnica-2020-Across-The-Pond%3Fnode-id%3D24%253A7867%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 Over the course of 2-3 days, I collaborated on a user-centered design project with a UMD graduate student, Shaan Chopra, a fellow Computer Science undegraduate student Ambika Sikri and a former tech professional who now suffers from dementia in creating a technology solution that was designed to help people who have dementia remember, or rather, not have to remember which items they're running low on. Our goal was to develop an application through which a smart device like Amazon's Alexa or Google Home could receive verbal feedback from the person with dementia, like "Alexa, add deodorant to my shopping list." Alexa would then add the user's preferred deodorant to a shopping list. The user would then be able to choose to purchase their items from their desired retailers through the app or get access to their curated shopping so they can carry it with them to the store. THe app will also keep track of their purchase history so the user can be reminded of the brand of an item that they use in case they forget, or reminded that this is about the time of month that they'd usually buy something so they can be reminded of items they might not have noticed ran out.
+
+## Online Peer Support for Adolescent Online Sexual Experiences
+### An Analysis of Digital Trace Data
+
+In this project, our goal was to understand the kinds of negative sexual experiences teens are having online, and the kind of feedback they get from peers once these experiences are shared, in an attempt to better understand how and why teens deal with risky situations. We chose to conduct this research using data from a peer support app called TalkLife.
+
+We conducted Thematic Analyses of over 800 posts and almost 6000 associated comments, all relating to potentially harmful sexual interactions teens had with their peers, strangers and their family members.
+
+Our analysis found that many of the teens seeking support have already engaged in risky sexual interactions and were seeking support for the aftermath.
