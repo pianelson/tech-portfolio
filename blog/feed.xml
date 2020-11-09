@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Pia Nelson Blog</title>
+        <link>https://pianelson.github.io/tech-portfolioblog</link>
+        <description>The best place to stay up-to-date with the latest Pia Nelson news and events.</description>
+        <lastBuildDate>Mon, 12 Oct 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Pia Nelson Blog</title>
+            <url>https://pianelson.github.io/tech-portfolioundefined</url>
+            <link>https://pianelson.github.io/tech-portfolioblog</link>
+        </image>
+        <copyright>Copyright © 2020</copyright>
+        <item>
+            <title><![CDATA[Unique Background Brings Unique Perspective]]></title>
+            <link>https://pianelson.github.io/tech-portfolioblog/2020/10/12/blog-post.html</link>
+            <guid>https://pianelson.github.io/tech-portfolioblog/2020/10/12/blog-post.html</guid>
+            <pubDate>Mon, 12 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Since I'm not formally trained in User Experience via my university, I've taken the initiative to join a Human-Computer Interaction Lab, where I am able to gain real research skills and experience. Unfortunately, this alone was not enough as I still ...</p>]]></description>
+        </item>
+    </channel>
+</rss>
